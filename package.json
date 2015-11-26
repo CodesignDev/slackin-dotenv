@@ -1,0 +1,15 @@
+{
+  "name": "slackin-dotenv",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Adding .env support to slackin",
+  "main": "index.js",
+  "author": "Codesign <cs@csdev.io>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "dotenv": "^1.2.0",
+    "hostenv": "^1.0.3",
+    "slackin": "^0.7.1"
+  }
+}
